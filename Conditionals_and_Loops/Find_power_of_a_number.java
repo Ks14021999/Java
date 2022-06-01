@@ -12,5 +12,6 @@ public class Find_power_of_a_number {
             n--;
         }
         System.out.print(ans);
+        s.close();
     }
 }

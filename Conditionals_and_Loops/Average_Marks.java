@@ -10,5 +10,6 @@ public class Average_Marks{
         int c = s.nextInt();
         System.out.println(str);
         System.out.println((a + b + c)/ 3);
+        s.close();
     }
 }

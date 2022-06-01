@@ -17,5 +17,6 @@ public class Sum_of_even_and_odd {
             N /=10;
         }
         System.out.print(even +" " + odd);
+        s.close();
     }
 }

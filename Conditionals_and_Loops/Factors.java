@@ -10,6 +10,6 @@ public class Factors {
                 System.out.print(i + " ");
             }
         }
-
+        s.close();
     }
 }

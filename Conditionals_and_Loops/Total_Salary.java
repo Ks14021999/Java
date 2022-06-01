@@ -22,5 +22,6 @@ public class Total_Salary {
         double totalSalary = (basic + hra + da + allow);
         totalSalary -= pf;
         System.out.println(Math.round(totalSalary));
+        s.close();
     }
 }
