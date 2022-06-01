@@ -1,3 +1,4 @@
+package Conditionals_and_Loops;
 import java.util.Scanner;
 
 public class Sum_of_even_and_odd {
