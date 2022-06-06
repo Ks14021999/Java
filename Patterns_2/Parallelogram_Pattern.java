@@ -21,5 +21,6 @@ public class Parallelogram_Pattern {
             System.out.println("");
             i++;
         }
+        s.close();
     }
 }
