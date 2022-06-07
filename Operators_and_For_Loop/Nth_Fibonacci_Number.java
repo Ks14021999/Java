@@ -1,5 +1,4 @@
 package Operators_and_For_Loop;
-
 import java.util.Scanner;
 
 public class Nth_Fibonacci_Number {
@@ -17,5 +16,4 @@ public class Nth_Fibonacci_Number {
         System.out.println(fib);
         s.close();
     }
-    
 }
