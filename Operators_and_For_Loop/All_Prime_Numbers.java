@@ -18,5 +18,6 @@ public class All_Prime_Numbers {
                 System.out.println(i);
             }
         }
+        s.close();
     }
 }
