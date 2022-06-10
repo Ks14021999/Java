@@ -15,6 +15,7 @@ public class F_TO_C {
         int E = s.nextInt();
         int W = s.nextInt();
         printFahrenheitTable(S, E, W);
+        s.close();
     }
 
 }
