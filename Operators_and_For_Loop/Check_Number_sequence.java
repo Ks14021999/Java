@@ -23,5 +23,6 @@ public class Check_Number_sequence {
         else{
             System.out.println("true");
         }
+        s.close();
     }
 }
