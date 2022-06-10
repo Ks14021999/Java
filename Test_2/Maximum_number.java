@@ -20,6 +20,6 @@ public class Maximum_number {
         Scanner s = new Scanner(System.in);
         int N = s.nextInt();
         System.out.println(max_no(N));
+        s.close();
     }
-
 }
